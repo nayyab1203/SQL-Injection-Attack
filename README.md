@@ -63,7 +63,7 @@ curl 'http://www.seedlabsqlinjection.com/unsafe_home.php?username=Admin%27%20%23
 <p>In order to edit the profile, please log in and then jump to the link address: <br><a href="http://www.seedlabsqlinjection.com/unsafe_edit_frontend.php" rel="nofollow">http://www.seedlabsqlinjection.com/unsafe_edit_frontend.php</a> by Hand.</p>
 <h2>Task 3.1</h2>
 <p>Log in with Alice's username and password, enter <br> <a href="http://www.seedlabsqlinjection.com/unsafe_edit_frontend.php" rel="nofollow">http://www.seedlabsqlinjection.com/unsafe_edit_frontend.php</a></p>
-<p>Modify Phone Number as <code>', Salary=500000</code> and save</p>
+<p>Modify Phone Number as <code>', Salary=700000</code> and save</p>
 <h2>Task 3.2</h2>
 <p>Log in with username <code>Boby' #</code>  and arbitrary password, open his profile edit page.</p>
 <p>Fill in with:</p>
