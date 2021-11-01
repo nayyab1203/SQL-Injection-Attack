@@ -10,7 +10,7 @@
   <tbody>
     <tr>
       <td>SQL Injection Attack Seed Lab Ubunto 16.04</td>
-      <td>M.Umer Hassan</td>
+      <td>Nayab Asif</td>
       <td>30-10-2021</td>
     </tr>
   </tbody>
